@@ -1,7 +1,6 @@
 # FMCG Demand & Inventory Analytics
 
-This project provides an end-to-end business analytics case study for the FMCG industry, focusing on demand patterns, promotion effectiveness, profitability, and inventory health.  
-The analysis is designed to support data-driven decision-making for commercial, supply chain, and operations teams.
+This project provides an end-to-end business analytics case study for the FMCG industry, focusing on demand patterns, promotion effectiveness, profitability, and inventory health. The analysis is designed to support data-driven decision-making for commercial, supply chain, and operations teams.
 
 ---
 
@@ -100,6 +99,5 @@ The data is structured, complete, and suitable for business analytics and visual
 - Category and location-specific strategies are critical for FMCG performance
 
 👤 Author
-
 Nurul Fauziyyah
 Statistics Undergraduate | Data & Business Analytics Enthusiast
