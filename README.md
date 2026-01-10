@@ -1,6 +1,3 @@
-# fmcg-demand-inventory-analytics
-End-to-end FMCG demand, promotion, profitability, and inventory analysis using Python and business-oriented analytics.
-
 # FMCG Demand & Inventory Analytics
 
 This project provides an end-to-end business analytics case study for the FMCG industry, focusing on demand patterns, promotion effectiveness, profitability, and inventory health.  
@@ -93,3 +90,16 @@ The data is structured, complete, and suitable for business analytics and visual
    ```bash
    pip install pandas numpy matplotlib seaborn
 3. Run the analysis scripts in sequence to reproduce the results and visualizations.
+
+---
+📈 Key Takeaways
+
+- Demand volatility and promotion effectiveness vary significantly across categories
+- High-demand categories do not always align with inventory readiness
+- Promotions drive growth but require careful margin and inventory management
+- Category and location-specific strategies are critical for FMCG performance
+
+👤 Author
+
+Nurul Fauziyyah
+Statistics Undergraduate | Data & Business Analytics Enthusiast
